@@ -56,8 +56,10 @@ Here are some ideas to get you started:
 	</h3>
 </div>
 
-<div>
-  	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhong810"/>
-  	<img src="https://github-readme-stats.vercel.app/api?username=jhong810"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhong810&langs_count=8"/>
+<div align=center>
+	<div>
+  		<img src="https://github-readme-stats.vercel.app/api?username=jhong810"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhong810&layout=compact"/>
+	</div>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhong810"/>
 </div>
