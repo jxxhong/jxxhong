@@ -45,10 +45,8 @@ Here are some ideas to get you started:
 </div>
 
 <div align=center>
-  	<h3>📜 Certificate & Award 📜</h3>
+  	<h3>📜 Certificate 📜</h3>
   		<div align=left>
-	  		<p>🔘 경기대학교 2024 캡스톤디자인 산학협력 프로젝트 경진대회 은상 (2024.06.07)</p>
-	  		<p>🔘 TOPCIT 수준3 (2024.06.17)</p>
    			<p>🔘 정보처리기사 (2024.06.18)</p>
 		</div>
 </div>
