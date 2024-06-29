@@ -38,17 +38,22 @@ Here are some ideas to get you started:
 <div align=center>
 	<h3>🛠 Tools 🛠</h3>
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" >
-	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" >
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" >
+	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
 
 <div align=center>
   	<h3>📜 Certificate 📜</h3>
-  		<div align=left>
-   			<p>🔘 정보처리기사 (2024.06.18)</p>
-		</div>
+   	<p>🔘 정보처리기사 (2024.06.18)</p>
+</div>
+
+<div align=center>
+  	<h3>📲Contact to : 
+		<a href="https://open.kakao.com/o/si7rb2zg"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=white"/></a>
+		<a href="https://www.instagram.com/jxxh0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+	</h3>
 </div>
 
 <div>
