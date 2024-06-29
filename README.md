@@ -14,5 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=DFDFFF&height=300&section=header&text=Jhong&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=FFFFFF" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhong810)](https://github.com/anuraghazra/github-readme-stats)]
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhong810)](https://solved.ac/jhong810)
+
+<div>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhong810"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhong810"/>
+</div>
