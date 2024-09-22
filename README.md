@@ -54,9 +54,3 @@ Here are some ideas to get you started:
 		<a href="https://www.instagram.com/jxxh0ng/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 	</h3>
 </div>
-
-<div align=center>
-	<div>
-		<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jhong810"/>
-	</div>
-</div>
