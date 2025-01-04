@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </div>
 <div align=center>
   	<h3>📖 Studying 📖</h3>
-  	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+  	<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 <div align=center>
   	<h3> Used at Least Once</h3>
@@ -33,11 +33,11 @@ Here are some ideas to get you started:
   	<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white"/>
   	<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </div>
 <div align=center>
 	<h3>🛠 Tools 🛠</h3>
-	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white"/>
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white"/>
 	<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
     	<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
